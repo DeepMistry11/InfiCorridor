@@ -1,5 +1,7 @@
 # InfiCorridor
 infiCorridor website - Internship
+
+
 steps to run the website:
 1. open gitBash terminal in the project folder.
 2. In gitbash terminal type "npm init -y" and press enter,
